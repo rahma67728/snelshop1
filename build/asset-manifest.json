@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShoesStore-Redux/static/css/main.0874d34c.css",
+    "main.js": "/ShoesStore-Redux/static/js/main.0f01776a.js",
+    "static/media/bg.jpeg": "/ShoesStore-Redux/static/media/bg.7e274008df6b2fffa423.jpeg",
+    "index.html": "/ShoesStore-Redux/index.html",
+    "main.0874d34c.css.map": "/ShoesStore-Redux/static/css/main.0874d34c.css.map",
+    "main.0f01776a.js.map": "/ShoesStore-Redux/static/js/main.0f01776a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0874d34c.css",
+    "static/js/main.0f01776a.js"
+  ]
+}
